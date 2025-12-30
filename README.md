@@ -6,6 +6,8 @@
 ## 📌 Overview
 AlgoTrade is an advanced algorithmic trading platform designed to assist traders in making data-driven decisions. The platform leverages machine learning models to provide intelligent trade recommendations and integrates with market data APIs to fetch real-time information, helping users execute trades based on quantitative analysis rather than emotions.
 
+Link - https://project-mocha-delta-69.vercel.app/
+
 ## 🚀 Features
 - 📈 **Real-Time Market Data**: Integration with Polygon.io API for historical and real-time stock data
 - 🤖 **ML-Based Predictions**: Multiple prediction models including Momentum Moving Average, MACD, Sentiment Analysis, and Time Series Windowing
